@@ -35,6 +35,6 @@ const portfolio = {
     { category: "crawler", number: "16", title: "贝壳二手房数据采集", description: "爬虫采集贝壳二手房数据，保存Excel文件", tags: ["requests", "xpath","反爬策略"], link: "Portfolio/贝壳二手房/index.html", accent: "mint", bgImage: "Portfolio/bgimgs/贝壳二手房.png"},
     { category: "analysis", number: "17", title: "csv自动化大屏", description: "csv数据可视化大屏，支持数据筛选、图表切换。", tags: ["pandas", "pyecharts","Excel"], link: "Portfolio/csv自动化大屏/CSV自动大屏.html", accent: "coral", bgImage: "Portfolio/bgimgs/数据大屏.png"},
     { category: "creative", number: "18", title: "炫酷项目展示", description: "AIGC技术项目展示，展示AIGC技术项目，包括但不限于AI绘画、AI写作、AI编程等。", tags: ["AIGC", "提示词","python"], link: "Portfolio/炫酷项目展示.html", accent: "coral", bgImage: "Portfolio/bgimgs/AIGC.png"},
-     { category: "creative", number: "19", title: "刘亦菲final", description: "刘亦菲是开阳心中最完美的女神", tags: ["beautiful", "lovely","pretty"], link: "Portfolio/刘亦菲.html", accent: "coral", bgImage: "Portfolio/bgimgs/刘亦菲.jpg"}
+     { category: "creative", number: "19", title: "刘亦菲final", description: "刘亦菲是大家心中的完美女神", tags: ["beautiful", "lovely","pretty"], link: "Portfolio/刘亦菲.html", accent: "coral", bgImage: "Portfolio/bgimgs/刘亦菲.jpg"}
   ]
 };
